@@ -1,0 +1,34 @@
+Log of Offset Calculations
+----------------------------
+User-input FRB and image details:
+FRB = FRB20190608B
+Telescope-instrument = Legacy
+Filter = r
+FRB R.A. = 334.019875 degrees
+FRB Decl. = -7.89825 degrees
+FRB Uncertainty semi major axis = 0.3848413134 arcsec
+FRB Uncertainty semi minor axis = 0.3630021252 arcsec
+FRB uncertainty angle = 90 deg E of N
+Galaxy R.A. = 22:16:04.9007
+Galaxy Decl. = -7:53:55.799
+z = 0.1178
+r_e_arcsec = 1.7981696
+FRB localization cutout size = 15 arcsec
+-----------------------------------------
+(weighted) Angular offset details:
+Median = 2.524334968993311 arcsec
+Upper uncertainty (68% C.I.) = 0.35650358934850646 arcsec
+Lower uncertainty (68% C.I.) = 0.3518066557978594 arcsec
+Mean = 2.5178172151625207 arcsec
+Straight-line angular offset = 2.85951 arcsec
+-----------------------------------------
+(weighted) Physical offset details:
+Median = 5.433128118562259 kpc
+Upper uncertainty (68% C.I.) = 0.7673029528367952 kpc
+Lower uncertainty (68% C.I.) = 0.7571937390999102 kpc
+Mean = 5.419099951919202 kpc
+-----------------------------------------
+Host-normalized offset details:
+Median = 1.4038358611964694
+Upper uncertainty (68% C.I.) = 0.19825915717210796
+Lower uncertainty (68% C.I.) = 0.1956470934654102
